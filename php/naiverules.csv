@@ -1,0 +1,94 @@
+attribut;parameter;Living;Died of Disease;Died of Other Cause
+tumor_size;mean;23.566;30.087;26.029
+tumor_size;standard deviation;13.180;18.172;12.273
+tumor_stage;mean;1.657;1.894;1.736
+tumor_stage;standard deviation;0.522;0.574;0.47
+3-gene_classifier_subtype;value=ER-/HER2-;0.181;0.154;0.101
+3-gene_classifier_subtype;value=ER+/HER2- High Prolif;0.265;0.355;0.353
+3-gene_classifier_subtype;value=ER+/HER2- Low Prolif;0.375;0.208;0.384
+3-gene_classifier_subtype;value=HER2+;0.092;0.156;0.044
+3-gene_classifier_subtype;value=UNDEF;0.087;0.127;0.118
+oncotree_code;value=IDC;0.798;0.809;0.752
+oncotree_code;value=MDLC;0.096;0.102;0.136
+oncotree_code;value=ILC;0.07;0.074;0.083
+oncotree_code;value=MMC;0.014;0.005;0.011
+oncotree_code;value=BREAST;0.013;0.005;0.004
+oncotree_code;value=MBC;7.263973524269294E-7;9.353425738944017E-7;0.002
+oncotree_code;value=UNDEF;0.009;0.005;0.011
+mutation_count;mean;5.331;5.777;6.231
+mutation_count;standard deviation;3.302;3.504;5.543
+primary_tumor_laterality;value=Right;0.488;0.426;0.0445
+primary_tumor_laterality;value=Left;0.47;0.499;0.498
+primary_tumor_laterality;value=UNDEF;0.042;0.074;0.057
+tumor_other_histologic_subtype;value=Ductal/NST;0.736;0.794;0.73
+tumor_other_histologic_subtype;value=Mixed;0.096;0.102;0.136
+tumor_other_histologic_subtype;value=Lobular;0.07;0.074;0.083
+tumor_other_histologic_subtype;value=Tobular/cribriform;0.0197;0.002;0.011
+tumor_other_histologic_subtype;value=Mucinous;0.014;0.005;0.011
+tumor_other_histologic_subtype;value=Medullary;0.014;0.014;0.011
+tumor_other_histologic_subtype;value=Other;0.013;0.005;0.004
+tumor_other_histologic_subtype;value=Metaplastic;7.263962971222358E-7;9.353408241662135E-7;0.002
+tumor_other_histologic_subtype;value=UNDEF;0.009;0.005;0.011
+neoplasm_histologic_grade;mean;2.293;2.506;2.145
+neoplasm_histologic_grade;standard deviation;0.769;0.699;0.883
+er_status_measured_by_ihc;value=Positif;0.745;0.699;0.855
+er_status_measured_by_ihc;value=Negative;0.255;0.301;0.145
+cellularity;value=High;0.485;0.504;0.482
+cellularity;value=Moderate;0.361;0.386;0.393
+cellularity;value=Low;0.117;0.09;0.099
+cellularity;value=UNDEF;0.037;0.020;0.026
+cancer_type_detailed;value=Breast Invasive Ductal Carcinoma;0.798;0.809;0.752
+cancer_type_detailed;value=Breast Mixed Ductal and Lobular Carcinoma;0.096;0.102;0.136
+cancer_type_detailed;value=Breast Invasive Lobular Carcinoma;0.070;0.074;0.083
+cancer_type_detailed;value=Breast Invasive Mixed Mucinous Carcinoma;0.014;0.005;0.011
+cancer_type_detailed;value=Breast;0.013;0.005;0.004
+cancer_type_detailed;value=Metaplastic Breast Cancer;7.263973524269294E-7;9.353425738944017E-7;0.002
+cancer_type_detailed;value=UNDEF;0.009;0.005;0.011
+type_of_breast_surgery;value=MASTECTOMY;0.491;0.668;0.671
+type_of_breast_surgery;value=BREAST CONVSERVING;0.499;0.321;0.316
+type_of_breast_surgery;value=UNDEF;0.009;0.010;0.013
+age_of_diagnosis;mean;56.319;60.364;69.553
+age_of_diagnosis;standard deviation;11.443;13.659;10.271
+cancer_type;value=Breast Cancer;0.999;0.9999981293061035;0.9999975754842666
+cancer_type;value=Breast Sarcoma;0.001314783983170765;9.353469482435114E-7;1.2122578666443622E-6
+chemotherapy;value=true;0.235;0.308;0.044
+chemotherapy;value=false;0.765;0.692;0.956
+pam50_+_claudin-low_subtype;value=claudin-low;0.141;0.090;0.066
+pam50_+_claudin-low_subtype;value=lumA;0.386;0.228;0.452
+pam50_+_claudin-low_subtype;value=lumB;0.198;0.291;0.257
+pam50_+_claudin-low_subtype;value=Her2;0.090;0.181;0.103
+pam50_+_claudin-low_subtype;value=Normal;0.080;0.078;0.057
+pam50_+_claudin-low_subtype;value=Basal;0.113;0.129;0.064
+cohort;mean;2.443;2.682;2.971
+cohort;standard deviation;1.274;1.141;0.188
+er_status;value=Positif;0.754;0.694;0.866
+er_status;value=Negatve;0.246;0.306;0.134
+her2_status_measured_by_snp6;value=NEUTRAL;0.732;0.673;0.787
+her2_status_measured_by_snp6;value=LOSS;0.064;0.044;0.037
+her2_status_measured_by_snp6;value=GAIN;0.202;0.278;0.173
+her2_status_measured_by_snp6;value=UNDEF;0.001;0.003;0.002
+her2_status;value=Negative;0.888;0.807;0.934
+her2_status;value=Positif;0.112;0.193;0.066
+hormone_therapy;value=true;0.602;0.604;0.667
+hormone_therapy;value=false;0.398;0.396;0.333
+radio_therapy;value=true;0.660;0.607;0.476
+radio_therapy;value=false;0.340;0.393;0.524
+pr_status;value=Negative;0.465;0.553;0.390
+pr_status;value=Positif;0.535;0.447;0.610
+nottingham_prognostic_index;mean;3.873;4.478;3.766
+nottingham_prognostic_index;standard deviation;1.065;1.132;1.133
+lymph_nodes_examined_positive;mean;1.264;3.442;1.493
+lymph_nodes_examined_positive;standard deviation;2.778;5.451;3.534
+integrative_cluster;value=6;0.034;0.059;0.042
+integrative_cluster;value=2;0.024;0.061;0.035
+integrative_cluster;value=1;0.072;0.080;0.050
+integrative_cluster;value=10;0.142;0.118;0.064
+integrative_cluster;value=8;0.138;0.122;0.197
+integrative_cluster;value=5;0.072;0.171;0.050
+integrative_cluster;value=4ER-;0.043;0.042;0.031
+integrative_cluster;value=7;0.093;0.071;0.125
+integrative_cluster;value=9;0.060;0.093;0.075
+integrative_cluster;value=3;0.166;0.085;0.204
+integrative_cluster;value=4ER+;0.155;0.098;0.127
+inferred_menopausal_state;value=Post;0.695;0.756;0.956
+inferred_menopausal_state;value=Pre;0.305;0.244;0.044
